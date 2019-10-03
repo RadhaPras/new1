@@ -1,5 +1,3 @@
-package demo;
-
 public class Prgm3 {
 
 	public static void main(String[] args) {
